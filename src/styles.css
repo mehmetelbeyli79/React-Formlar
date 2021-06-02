@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.App input,
+select,
+textarea,
+button {
+  display: block;
+  margin-bottom: 6px;
+  width: 115%;
+}
